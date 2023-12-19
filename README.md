@@ -9,7 +9,7 @@ I'm an Embedded System Engineer with a passion for technology and innovation.
 
 - 🌐 Working in the field of embedded systems.
 - 💡 Interested in RTL Design and FPGA prototyping .
-- 🎓 Graduated with a degree in Electrical and electroncs engineering from Anna universisty
+- 🎓 Graduated with a degree in Electrical and electronics engineering from Anna universisty
 
 
 ## Get in Touch
